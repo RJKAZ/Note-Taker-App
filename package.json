@@ -1,0 +1,27 @@
+{
+  "name": "Note-Taker-App",
+  "version": "1.0.0",
+  "description": "An application that can be used to write, save, and delete notes.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJKAZ/Note-Taker-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJKAZ/Note-Taker-App/issues"
+  },
+  "homepage": "https://github.com/RJKAZ/Note-Taker-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
