@@ -1,0 +1,23 @@
+{
+  "journal": [
+    {
+      "id": "1",
+    "title": "tests",
+    "body": "asfdfsd",
+    "journal": "food"
+  }, 
+  {
+    "id": "2",
+    "title": "lskfjsdlk",
+    "body": "sdjlfkjdsklf",
+    "journal": "excercise"
+  }, 
+  {
+    "id": "3",
+    "title": "ouch",
+    "body": "dude",
+    "journal": "food"
+  }
+  ]
+}
+  
